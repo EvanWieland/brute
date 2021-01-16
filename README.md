@@ -1,2 +1,2 @@
-# brute
-🐗 Perform brute force attacks on encrypted HFS+ drives.
+# 🐗 Brute
+Perform brute force attacks on encrypted HFS+ drives.
