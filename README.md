@@ -1,6 +1,6 @@
 <h1 align="center">🐗 Brute</h1>
-<p align="center">Command line tool for performing brute-force attacks on encrypted HFS+ drives.</p>
-<p align="center">
+<p align="center">Command line tool for performing brute-force attacks on encrypted HFS+ drives. A Mac is required to run.</p>
+<p align="center"></p>
 </p>
 
 ## Installation
@@ -19,6 +19,7 @@ $ git clone https://github.com/evanwieland/brute && cd brute
 $ export PATH="$PATH:/path/to/dir"
 $ chmod +x brute
 ```
+[Crunch](https://sourceforge.net/projects/crunch-wordlist/) and [GNU Parallel](https://www.gnu.org/software/parallel/) are requirements that will also need to be installed manually.
 
 ## Usage
 
